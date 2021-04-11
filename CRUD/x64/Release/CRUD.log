@@ -1,0 +1,8 @@
+﻿  CRUD.cpp
+D:\Proyectos vs 2019\CRUD\CRUD\CRUD.cpp(296,13): warning C4101: 'opcion': variable local sin referencia
+  Generando código
+  1 of 156 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  CRUD.vcxproj -> D:\Proyectos vs 2019\CRUD\x64\Release\CRUD.exe
